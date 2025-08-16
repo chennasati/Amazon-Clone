@@ -43,8 +43,8 @@ amazon-clone/
 3.(Optional) Use VS Code Live Server extension for auto-refresh while editing.
 
 ### OUTPUT
-![First](first.png)
-![Second](Second.png)
+![First](first.png.jpeg)
+![Second](Second.png.jpeg)
 
 💡 Future Improvements
 
